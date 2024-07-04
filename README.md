@@ -42,11 +42,6 @@ The application is structured as follows:
 5. **Removing Tasks**: The `remove_task` method removes the selected task from the list and updates the listbox.
 6. **Updating Listbox**: The `update_listbox` method refreshes the listbox to display the current tasks.
 
-## Example Code
-
-Here's a snippet of the main components of the application:
-
-
 ## Conclusion
 
 The To-Do List application is a practical project for beginners to learn about GUI development in Python. It demonstrates creating, managing, and organizing tasks using a simple graphical interface.
